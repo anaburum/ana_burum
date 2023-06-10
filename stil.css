@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:darkblue;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 18px;
+	line-height: 18px;
+	width: 700px;
+	background-color: lightpink;
+	padding: 15px
+}
+h1, h2 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: darkblue;
+}
+body{
+	background-color: lemonchiffon;
+}
